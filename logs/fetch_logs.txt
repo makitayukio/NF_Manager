@@ -1,0 +1,138 @@
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=false&cpf=23606300832&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:48:55.196Z", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=false&cpf=23606300832&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:48:55.196Z", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RjcmUiOiI2MTM3ODAiLCJpYXQiOjE3MzYwODc4MjQsImV4cCI6MTczNjY5MjYyNH0.iZ-Hb8Mf2T8rEt8e9r2mI4o2x9c9OGgNf1VxchOMqxc",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+fetch("https://portal-api.personalcard.com.br/chaves/insert", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://portal-api.personalcard.com.br/chaves/insert", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RjcmUiOiI2MTM3ODAiLCJpYXQiOjE3MzYwODc4MjQsImV4cCI6MTczNjY5MjYyNH0.iZ-Hb8Mf2T8rEt8e9r2mI4o2x9c9OGgNf1VxchOMqxc",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"chaveAcesso\":\"35250101144650000173590010664750087170655946\",\"transactionId\":\"04612a72-70c1-4ebb-9e66-0796604d9883\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=false&cpf=23606300832&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:48:55.196Z", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=false&cpf=23606300832&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:48:55.196Z", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RjcmUiOiI2MTM3ODAiLCJpYXQiOjE3MzYwODc4MjQsImV4cCI6MTczNjY5MjYyNH0.iZ-Hb8Mf2T8rEt8e9r2mI4o2x9c9OGgNf1VxchOMqxc",
+    "if-none-match": "W/\"2eb-64sLVCYdcsTBU3rIZgUwzPFcByI\"",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=true&cpf=&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:50:11.855Z&chave=&numseq=&numdoc=&ordenacao=desc&sorting=DATA&status=valid&status=processing", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://portal-api.personalcard.com.br/transactions?currentPage=1&perPage=10&recolhida=true&cpf=&startDate=2023-11-28T03:00:00.000Z&endDate=2025-01-05T14:50:11.855Z&chave=&numseq=&numdoc=&ordenacao=desc&sorting=DATA&status=valid&status=processing", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RjcmUiOiI2MTM3ODAiLCJpYXQiOjE3MzYwODc4MjQsImV4cCI6MTczNjY5MjYyNH0.iZ-Hb8Mf2T8rEt8e9r2mI4o2x9c9OGgNf1VxchOMqxc",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://credenciado.personalcard.com.br/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
